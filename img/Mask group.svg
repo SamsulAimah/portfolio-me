@@ -1,0 +1,30 @@
+<svg width="179" height="208" viewBox="0 0 179 208" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mask group">
+<mask id="mask0_8_125" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="43" y="42" width="229" height="235">
+<ellipse id="Ellipse 3" cx="157.335" cy="159.762" rx="111.715" ry="119" transform="rotate(31.3745 157.335 159.762)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_8_125)">
+<line id="Line 1" x1="-92.0581" y1="334.378" x2="207.47" y2="-156.819" stroke="white"/>
+<line id="Line 2" x1="-79.8074" y1="341.848" x2="219.72" y2="-149.349" stroke="white"/>
+<line id="Line 3" x1="-67.5568" y1="349.319" x2="231.971" y2="-141.878" stroke="white"/>
+<line id="Line 21" x1="-67.5568" y1="349.319" x2="231.971" y2="-141.878" stroke="white"/>
+<line id="Line 4" x1="-55.3061" y1="356.789" x2="244.222" y2="-134.408" stroke="white"/>
+<line id="Line 5" x1="-43.0554" y1="364.259" x2="256.472" y2="-126.938" stroke="white"/>
+<line id="Line 6" x1="-30.8047" y1="371.73" x2="268.723" y2="-119.467" stroke="white"/>
+<line id="Line 7" x1="-18.554" y1="379.2" x2="280.974" y2="-111.997" stroke="white"/>
+<line id="Line 8" x1="-6.30342" y1="386.67" x2="293.224" y2="-104.527" stroke="white"/>
+<line id="Line 9" x1="5.94738" y1="394.141" x2="305.475" y2="-97.0561" stroke="white"/>
+<line id="Line 10" x1="18.1981" y1="401.611" x2="317.726" y2="-89.5864" stroke="white"/>
+<line id="Line 11" x1="30.4488" y1="409.081" x2="329.977" y2="-82.1157" stroke="white"/>
+<line id="Line 13" x1="42.6995" y1="416.552" x2="342.227" y2="-74.645" stroke="white"/>
+<line id="Line 14" x1="54.9501" y1="424.022" x2="354.478" y2="-67.1752" stroke="white"/>
+<line id="Line 15" x1="67.2009" y1="431.493" x2="366.729" y2="-59.7045" stroke="white"/>
+<line id="Line 16" x1="79.4515" y1="438.963" x2="378.979" y2="-52.2338" stroke="white"/>
+<line id="Line 17" x1="91.7022" y1="446.433" x2="391.23" y2="-44.7641" stroke="white"/>
+<line id="Line 18" x1="103.953" y1="453.904" x2="403.481" y2="-37.2934" stroke="white"/>
+<line id="Line 19" x1="116.204" y1="461.374" x2="415.731" y2="-29.8232" stroke="white"/>
+<line id="Line 20" x1="128.454" y1="468.844" x2="427.982" y2="-22.353" stroke="white"/>
+<line id="Line 12" x1="140.705" y1="476.315" x2="440.233" y2="-14.8823" stroke="white"/>
+</g>
+</g>
+</svg>
